@@ -70,20 +70,32 @@ Review sentiment analysis revealed that 80% to 88% of reviews were positive, dep
 
 ## 🚀 Professional Development
 
-This project sharpened my ability to:
+This project strengthened my ability to:
 
-- Combine behavioural, demographic, and text data for customer analysis
-- Use both Python and R in a structured workflow to clean, model, and visualise results
-- Design segmentation frameworks that support real-world decision-making
-- Apply sentiment analysis to product feedback and link it to campaign priorities
-- Translate technical findings into targeted recommendations for the marketing and product teams
+* Analyse behavioural, demographic and review text data to understand customer behaviour
+* Build a structured Python and R workflow to clean, model and visualise data
+* Turn technical findings into practical recommendations for the marketing and product teams
+* Create customer segments that can guide targeted, real-world marketing decisions
+* Use sentiment analysis to uncover product strengths and pain points from customer reviews
 
-It also taught me to question my results, for example spotting that 'Five Stars' summaries were scored as neutral, and to weigh model accuracy against how easily stakeholders can understand and act on the findings.
+It also gave me hands-on experience working with both numerical and text data, and tuning predictive models so that their results can support business decisions.
 
 ## 🕹️ Visual Storytelling for Insights
 
+### Analytical Approach
+![Analytical Approach](images/analytical_approach.png)
+
+### Distribution of Loyalty Points
 ![Distribution of Loyalty Points](images/loyalty_points_distribution.png)
+
+### Decision Tree
 ![Decision Tree](images/decision_tree.png)
+
+### Actual vs Predicted Loyalty Points
 ![Actual vs Predicted Loyalty Points](images/regression_actual_vs_predicted.png)
+
+### Customer Segments
 ![Customer Segments](images/kmeans_clusters.png)
+
+### Sentiment Comparison
 ![Sentiment Comparison](images/sentiment_polarity.png)
